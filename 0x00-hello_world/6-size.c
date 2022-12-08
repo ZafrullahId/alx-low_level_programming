@@ -1,17 +1,9 @@
 #include <stdio.h>
 
-
-
 /**
-
- * main - Entry point
-
- *
-
- * Return: Always 0 (Success)
-
- */
-
+*main - Entry point
+* I thought it was a doc line
+*/
 int main(void)
 
 {

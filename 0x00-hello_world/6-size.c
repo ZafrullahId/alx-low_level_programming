@@ -1,8 +1,13 @@
 #include <stdio.h>
 
+
+
 /**
+
 *main - Entry point
+
 * I thought it was a doc line
+* Return: Always 0 (Success)
 */
 int main(void)
 

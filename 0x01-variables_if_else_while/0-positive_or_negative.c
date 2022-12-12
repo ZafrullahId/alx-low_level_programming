@@ -14,15 +14,12 @@
 
 
 /**
-
  * main - Prints a random number and states whether
-
  * I thought it was a doc line
-
  *
-
+ * I thought it was a doc line
+ *
  * Return: Always 0.
-
 */
 
 int main(void)

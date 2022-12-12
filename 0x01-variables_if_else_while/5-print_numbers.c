@@ -1,9 +1,8 @@
 /*
-
  * File: 5-print_numbers.c
-
+ *
  * Auth: Brennan D Baraban
-
+ *
  */
 
 
@@ -13,13 +12,13 @@
 
 
 /**
-
  * main - Prints all single digit numbers of base 10 starting from 0.
-
+ * I thought it was a doc line
  *
-
+ *
+ *
  * Return: Always 0.
-
+ *
  */
 
 int main(void)

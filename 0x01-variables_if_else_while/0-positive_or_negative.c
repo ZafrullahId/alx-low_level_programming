@@ -1,9 +1,6 @@
 /*
-
  * File: 0-positive_or_negative.c
-
  * Auth: Brennan D Baraban
-
  */
 
 
@@ -20,7 +17,7 @@
 
  * main - Prints a random number and states whether
 
- *        it is positive, negative, or zero.
+ * I thought it was a doc line
 
  *
 

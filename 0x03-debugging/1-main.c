@@ -3,6 +3,7 @@
 /**
 * main - causes an infinite loop
 * Return: 0
+* I thought it was a doc line
 */
 
 int main(void)
